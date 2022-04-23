@@ -1,0 +1,13 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+.box {
+    text-align: center;
+}
+
+.boxe {
+    background: green;
+    border-radius: 20px;
+}

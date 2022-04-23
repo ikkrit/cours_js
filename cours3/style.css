@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap");
+
+/* body {
+    min-height: 100vh;
+    font-family: "Josefin Sans", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    font-size: 3rem;
+    background: tomato;
+}
+
+#target {
+    display: flex;
+    margin-left: 1rem;
+    position: relative;
+}
+
+#target::after {
+    content: "";
+    position: absolute;
+    height: 3rem;
+    width: 5px;
+    background: #000;
+    top: 0;
+    right: -5px;
+    transform: translateY(-4px);
+    animation: anim 0.8s linear infinite;
+}
+
+@keyframes anim {
+    50% {
+        opacity: 0.1;
+    }
+    100% {
+        opacity: 1;
+    }
+} */
+
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: gray;
+    text-align: center;
+}
+
+.user-card {
+    border: 2px solid orange;
+    margin: 10px;
+}
